@@ -20,7 +20,7 @@ export const Navbar = () => {
         backgroundColor: '#00000050',
         backgroundFilter: 'blur(10px)',
         duration: 1,
-        ease: 'power2.inOut'
+        ease: 'power1.inOut'
       }
     )
   })
